@@ -1,3 +1,5 @@
+package Arrays;
+
 //Problem link - https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/
 
 //Problem Description - Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.

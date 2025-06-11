@@ -1,3 +1,5 @@
+package Arrays;
+
 //Problem link - https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/
 
 //Problem description - Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
