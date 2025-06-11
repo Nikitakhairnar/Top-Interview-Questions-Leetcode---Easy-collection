@@ -1,4 +1,6 @@
+package Arrays;
 // problem link -
+
 // https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
 
 // Problem Description - Given an integer array nums sorted in non-decreasing
