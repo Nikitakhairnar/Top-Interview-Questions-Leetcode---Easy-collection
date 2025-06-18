@@ -1,3 +1,5 @@
+package Arrays;
+
 //Problem link - https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/
 
 //Problem Description - Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.

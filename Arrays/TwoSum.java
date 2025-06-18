@@ -1,3 +1,5 @@
+package Arrays;
+
 //Problem link - https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/
 
 //Problem Description -Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
