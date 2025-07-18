@@ -1,5 +1,3 @@
-package Arrays;
-
 //Problem link - https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/
 
 //Problem Description - Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
